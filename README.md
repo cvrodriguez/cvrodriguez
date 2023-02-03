@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Social banner for cvrodriguez](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
+[![Social banner for cvrodriguez]([https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn3.vectorstock.com%2Fi%2F1000x1000%2F47%2F87%2Fyoung-girl-learns-programming-vector-23544787.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fyoung-girl-learns-programming-vector-23544787&tbnid=8xyE5S1SrYz2JM&vet=12ahUKEwj90_OHz_n8AhUk47sIHZXnDtoQMygKegUIARDJAQ..i&docid=iwS9dv6LmiVT3M&w=1000&h=849&q=cute%20coding%20girl&hl=en&ved=2ahUKEwj90_OHz_n8AhUk47sIHZXnDtoQMygKegUIARDJAQ))]
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
